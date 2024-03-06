@@ -9,14 +9,14 @@ public class loopArrays {
         int[] user_numbers = new  int[elements];
         int i; // loop index
 
-        System.out.println("Enter " + elements + " numbers: ");
-        for (i = 0; i < elements; i++) {
+        System.out.println("Enter " + elements + " integer numbre for me: ");
+        for (i = 0; i < user_numbers.length; i++) {
             user_numbers[i] = input.nextInt();
-            System.out.println("You entered: " + user_numbers[i]);
+            System.out.println("number: " + user_numbers[i]);
         }
         System.out.println("You entered: ");
-        for (i = 0; i < elements; i++) {
-            System.out.println(user_numbers[i]);
+        for (i = 0; i < user_numbers.length; i++) {
+            System.out.println(user_numbers[i] + " ");
 
 
         }
