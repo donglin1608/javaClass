@@ -21,8 +21,4 @@ public class arrayCopy {
         System.out.println("The copied items are: ");
 
     }
-
-
-
-
 }
