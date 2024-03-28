@@ -10,7 +10,7 @@ public class ArrayNotes{
         //matrix.length is the number of rows, matrix[0].length is the number of columns
 
         for (int row = 0; row < matrix.length; row++){//matrix.length is the number of rows
-            for (int column = 0; column < matrix[row]). length; column++){//matrix[row].length is the number of columns
+            for (int column = 0; column < matrix[row].length; column++){//matrix[row].length is the number of columns
                 matrix[row][column] = input.nextInt();  //input value to the matrix
 
             }
