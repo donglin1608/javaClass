@@ -1,8 +1,6 @@
-import java.lang.Math;
-public class Rideshare {
-    // Add your class members and methods here
-    publice static void main(String[] args) {
-        // Add your code here
+publice class passTwoDimensionalArray{
+
+    public statics void main(String[] args){
         //create objects for the drivers
         int firstDriverArriveTime;
         int secondDriverArriveTime;
@@ -38,10 +36,5 @@ public class Rideshare {
             System.out.println("Driver 3 is the closest" + " and will arrive in " + thirdDriverArriveTime + " minutes");
         
         }
-
-    
-
-
-     
     }
 }
