@@ -1,0 +1,21 @@
+//A class is a template for creating objects.
+
+//Class begin
+
+/** The radius of this circle */
+
+
+/** Construct a circle object */
+
+
+/** Construct a circle object */
+
+
+/** Return the area of this circle */
+
+
+
+/** Return the perimeter of this circle */
+
+
+/** Set new radius for this circle */
