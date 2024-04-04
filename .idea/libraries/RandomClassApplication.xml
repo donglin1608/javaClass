@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="RandomClassApplication">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/RandomClassApplication.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
